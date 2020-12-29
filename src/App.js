@@ -35,7 +35,7 @@ function App() {
 
     return (
         <div className="container">
-            <h1 className="title">React Movie Search TEST</h1>
+            <h1 className="title">React Movie Search</h1>
             <form className="form" onSubmit={searchMovies}>
                 <label className="label">Movie:</label>
                 <input  
